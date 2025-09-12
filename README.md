@@ -1,2 +1,3 @@
 # AI_lab
-2025-2 Artificial intelligence
+- Hyunjoon Choi 2023041052
+- 2025-2 Artificial intelligence
